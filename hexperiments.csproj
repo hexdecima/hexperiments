@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- do note this is ./, not ../-->
+  <Import Project="./tModLoader.targets" />
+
+	<PropertyGroup>
+		
+	</PropertyGroup>
+
+	<ItemGroup>
+		
+	</ItemGroup>
+
+</Project>

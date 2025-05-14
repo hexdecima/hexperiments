@@ -1,0 +1,3 @@
+displayName = Hexperiments
+author = hexdecima
+version = 0.1
